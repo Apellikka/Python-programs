@@ -1,5 +1,7 @@
 
-
+"!!!!!!!!!!!!!!!!!!!!!!!!"
+"ONLY THE CLASS MOVINGBOX AND IT'S CONTENT IS MY CREATION"
+"!!!!!!!!!!!!!!!!!!!!!!!!"
 
 class MovingBox:
     """
