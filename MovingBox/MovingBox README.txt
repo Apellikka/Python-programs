@@ -1,1 +1,0 @@
-Only the class MovingBox and it's contents is made by me. The others are not my creation.
