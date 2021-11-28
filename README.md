@@ -1,3 +1,3 @@
 # Python-programs
 
-Python projects from my university coursework.
+Python programs from my university coursework.
