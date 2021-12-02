@@ -62,9 +62,6 @@ class Counter:
 
 
 def main():
-    # There is no need to modify the main function.
-    # As a matter of fact, automated tests ignore main
-    # once again.
 
     Counter()
 
